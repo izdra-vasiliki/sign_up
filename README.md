@@ -1,0 +1,1 @@
+This is an HTML page for user sign-up. It includes the appropriate CSS elements. There are JavaScript codes to toggle the visibility of the password and to inform the user about the strength of the password. The page includes cookies and the appropriate notifications in case the fields are not filled out or if the registration is successful.
